@@ -29,4 +29,5 @@ End
 
 
 Group Project Task 3: Use of Docker
+
 Docker is an application that lets you build, ship, and run containerized applications in lightweight and portable containers. Some of the basic uses of Docker are application deployment, development and testing, microservices architecture, and continuous integration. Docker makes applications consistent and easy to deploy anywhere.
