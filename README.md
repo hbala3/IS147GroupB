@@ -24,3 +24,9 @@ Check if password has at least one of the stated special characters
 If all 3 conditions are met, display "Password is strong."
 If any of the conditions are not met, display "Password does not meet the required conditions."
 End 
+
+
+
+
+Group Project Task 3: Use of Docker
+Docker is an application that lets you build, ship, and run containerized applications in lightweight and portable containers. Some of the basic uses of Docker are application deployment, development and testing, microservices architecture, and continuous integration. Docker makes applications consistent and easy to deploy anywhere.
